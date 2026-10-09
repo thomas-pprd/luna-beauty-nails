@@ -1,0 +1,10 @@
+LUNA BEAUTY NAILS — APPLICATION GRATUITE
+
+1. Pour installer sur iPhone/iPad, il faut publier les fichiers de ce dossier sur un site HTTPS (par exemple GitHub Pages, offre gratuite sous réserve de ses conditions).
+2. Sur GitHub, créez un dépôt public SANS données personnelles, envoyez uniquement index.html, manifest.webmanifest, service-worker.js, icon-192.png et icon-512.png.
+3. Activez Pages dans Settings > Pages > Deploy from a branch > main / root. Attendez que le lien HTTPS soit disponible.
+4. Sur iPhone/iPad, ouvrez ce lien dans Safari > Partager > Sur l’écran d’accueil > Ajouter.
+5. Dans l’application, créez vos clientes et vos rendez-vous. Sauvegardez régulièrement depuis Mes données > Télécharger une sauvegarde.
+
+IMPORTANT : Cette version ne demande pas de connexion et ne possède pas de mot de passe. L’URL de l’application peut être publique, mais les données saisies restent stockées localement sur l’appareil, pas sur GitHub. Ne téléversez JAMAIS un fichier de sauvegarde ni les données de vos clientes sur le dépôt public.
+Il n’y a pas de synchronisation automatique entre iPhone et iPad. Utilisez Exporter puis Restaurer pour transférer les données manuellement ; restaurer remplace les données de l’appareil de destination. Le stockage du navigateur peut être effacé ; conservez des sauvegardes dans un endroit privé et protégé.

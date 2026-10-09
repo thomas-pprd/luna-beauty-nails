@@ -1,0 +1,22 @@
+{
+  "name": "Luna Beauty Nails — Mon agenda",
+  "short_name": "Luna Nails",
+  "description": "Agenda privé de prothésie ongulaire",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff9fb",
+  "theme_color": "#f8e8ee",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
